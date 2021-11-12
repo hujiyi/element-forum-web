@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7445"],{"75a2":function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("el-row",{attrs:{gutter:20}},[t("el-col",[n._v(" 仪表盘首页正在建设中 ")])],1)],1)},r=[],u={name:"MainIndex",data:function(){return{}}},l=u,c=t("2877"),o=Object(c["a"])(l,a,r,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0d7445.872fb785.js.map
